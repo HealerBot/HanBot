@@ -26,6 +26,7 @@ Included champions:
 - Soraka
 - Tristana
 - Trundle
+- Yone
 - Yorick
 
 
