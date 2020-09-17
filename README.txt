@@ -1,12 +1,8 @@
 < Healer AIO >
 ---------------
 
-How to install/activate Healer AIO:
-1. Download Healer AIO from your Hanbot client.
-2. Create Healer_Key.txt file inside "Hanbot3/league of legends" folder (or let the script do that by running it).
-3. Place your Healer AIO key inside the created file, save it, and reload the script!
-
-For more information where to get the key, check the hanbot console!
+How to use Healer AIO:
+Download Healer AIO from your Hanbot client and enable it in-game!
 
 Included champions:
 - Aurelion Sol
