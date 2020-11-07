@@ -25,6 +25,13 @@ Included champions:
 - Yone
 - Yorick
 
+Included utilities
+- Advanced evade spell cast blocking
+- Champion glow
+- Ward utility
+- Menu themes
+- Random
+
 
 Healer AIO Telegram servers:
 ----------------------------
