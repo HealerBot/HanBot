@@ -18,6 +18,7 @@ Included champions:
 - Lux
 - Malzahar
 - Senna
+- Seraphine
 - Sona
 - Soraka
 - Tristana
