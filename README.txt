@@ -27,11 +27,18 @@ Included champions:
 - Yorick
 
 Included utilities
-- Advanced evade spell cast blocking
-- Champion glow
-- Ward utility
-- Menu themes
+- Advanced Evade Spell Cast Blocking
+- Champion Glow
+- Ward Utility
+- Custom Menu Themes
+- Enemy Glow
+- Recall Animation
+- Exploits: [Sion R Exploit]
 - Random
+
+Please note that:
+Evade Spell Cast Blocking utility is written for [Hanbot Evade] only!
+It supports both Hanbot Evade versions.
 
 
 Healer AIO Telegram servers:
