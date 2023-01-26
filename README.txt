@@ -34,7 +34,6 @@ Included utilities
 - Custom Menu Themes
 - Enemy Glow
 - Recall Animation
-- Exploits: [Sion R Exploit]
 - Random
 
 Please note that:
