@@ -5,7 +5,6 @@ How to use Healer AIO:
 Download Healer AIO from your Hanbot client and enable it in-game!
 
 Included champions:
-- Aurelion Sol
 - Corki
 - Ekko
 - Illaoi
