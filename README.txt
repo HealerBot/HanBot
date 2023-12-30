@@ -39,12 +39,3 @@ Included utilities
 Please note that:
 Evade Spell Cast Blocking utility is written for [Hanbot Evade] only!
 It supports both Hanbot Evade versions.
-
-
-Healer AIO Telegram servers:
-----------------------------
-Group chat: (https://t.me/joinchat/H5JKEBb0-B78rlc7aVPl-Q)
-AIO changelogs channel: (https://t.me/joinchat/AAAAAEu7FudqoEm7_WQsdQ)
-
-Other contact info:
-Telegram: @HanBot_Healer
